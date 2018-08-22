@@ -1,2 +1,7 @@
 # hypothesis-ros2
-Hypothesis strategies for ROS2 node level property based testing.
+
+Data generators for Property Based Testing and Fuzzy Testing of ROS2 nodes.
+
+[![GitHub license](https://img.shields.io/github/license/fkromer/python-tia.svg)](https://github.com/fkromer/python-tia/blob/master/LICENSE)
+[![Read the Docs](https://img.shields.io/readthedocs/pip.svg)](http://hypothesis-ros2.readthedocs.io/)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/fkromer)
