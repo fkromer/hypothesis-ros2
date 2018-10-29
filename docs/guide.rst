@@ -25,11 +25,10 @@ which are:
 ROS2 message package versions
 .............................
 
-To keep maintenance effort as low as possible ROS2 
-Currently 
-Reproducible test infrastructure is critical. However the required effort to
-maintain separate packages 
+`hypothesis-ros` supports all current and future ROS2 message packages like e.g.
+`cartographer_ros_msgs`_.
 
+.. _cartographer_ros_msgs: https://index.ros.org/p/cartographer_ros_msgs/#bouncy
 
 ROS2 build tools
 ................
