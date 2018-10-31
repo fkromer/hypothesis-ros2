@@ -15,6 +15,7 @@ setup(name='hypothesis-ros2',
       packages=find_packages(),
       classifiers=[
           'Development Status :: 1 - Planning',
+          'Framework :: Hypothesis',
           'Intended Audience :: Developers',
           'License :: OSI Approved :: Apache Software License',
           'Natural Language :: English',
